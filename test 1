@@ -1,0 +1,7 @@
+fun main() {
+    val num1 = 5
+    val num2 = 10
+
+    // Syntax error: missing closing parenthesis on println
+    println("The sum is: " + (num1 + num2
+}
